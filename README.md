@@ -1,9 +1,9 @@
  #### My name is Leonardo, I'm from São Paulo, Brazil.
- I like to learn new things and improve my skills! 
+ I'm Passionate about games! 
  
-• Studying Computer Science;
+• Studying Video Game Programming and Development;
 
-• I'm very friendly;
+• ;
 
 
 ### Get in touch with me through my social network: 
