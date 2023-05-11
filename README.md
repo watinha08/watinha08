@@ -1,9 +1,9 @@
  #### My name is Leonardo, I'm from São Paulo, Brazil.
  I'm Passionate about games! 
  
-• Studying Video Game Programming and Development;
+• Studying Video Game Programming and Development.
 
-• My Dream is to Make a Game that Shanges Someones Life;
+• My Dream is to Make a Game that Shanges Someones Life.
 
 ### Get in touch with me through my social network: 
 
