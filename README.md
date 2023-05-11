@@ -3,7 +3,7 @@
  
 • Studying Video Game Programming and Development;
 
-• ;
+• My Dream is to Make a Game that Shanges Someones Life;
 
 ### Get in touch with me through my social network: 
 
