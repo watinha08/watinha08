@@ -8,7 +8,7 @@
 
 ### Get in touch with me through my social network: 
 
-<a href="https://www.linkedin.com/in/leonardo-watanabe-429b0b200/" alt= "LinkedIN" target= "_blank">
+<a href="https://www.linkedin.com/in/leonardo-hisao-watanabe-silva-429b0b200/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=https://www.linkedin.com/in/leonardo-watanabe-429b0b200/">
 </a>   
 
